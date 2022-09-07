@@ -1,0 +1,89 @@
+{
+    "7": {
+      "A": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "J007_L01_01",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 4800,
+        "detector_type": "SMC"
+      },
+      "B": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "J007_L01_01",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 4800,
+        "detector_type": "SMC"
+      },
+      "G": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 2400,
+        "detector_type": "SMC"
+      }
+    },
+    "8": {
+      "D": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "J007_L02_01",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 2400,
+        "detector_type": "SMC"
+      },
+      "C": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "J007_L02_01",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 2400,
+        "detector_type": "SMC"
+      },
+      "H": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 2400,
+        "detector_type": "SMC"
+      }
+    },
+    "9": {
+      "E": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "J007_L03_01",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 3600,
+        "detector_type": "SMC"
+      },
+      "F": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "J007_L03_01",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 3600,
+        "detector_type": "SMC"
+      },
+      "I": {
+        "in_detector_scn": "",
+        "out_detector_scn": "",
+        "xdetector_scn": "",
+        "q1_detector_scn": "",
+        "q2_detector_scn": "",
+        "saturation_flow": 2400,
+        "detector_type": "SMC"
+      }
+    }
+  }

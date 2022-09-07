@@ -1,0 +1,716 @@
+{
+    "1": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:00:00",
+        "period_number": 1,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "FLSH",
+            "offline_mode": "FLSH",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:00:00",
+        "end_time": "09:00:00",
+        "period_number": 2,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 2,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 3,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:00:00",
+        "period_number": 4,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:00:00",
+        "end_time": "18:30:00",
+        "period_number": 5,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "18:30:00",
+        "end_time": "20:00:00",
+        "period_number": 6,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "20:00:00",
+        "end_time": "23:59:00",
+        "period_number": 7,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "FLSH",
+            "offline_mode": "FLSH",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ],
+    "2": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:30:00",
+        "period_number": 8,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:30:00",
+        "end_time": "09:00:00",
+        "period_number": 9,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 10,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:30:00",
+        "period_number": 11,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:30:00",
+        "end_time": "19:30:00",
+        "period_number": 12,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "19:30:00",
+        "end_time": "22:00:00",
+        "period_number": 13,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "22:00:00",
+        "end_time": "23:59:00",
+        "period_number": 14,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ],
+    "3": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:30:00",
+        "period_number": 15,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:30:00",
+        "end_time": "09:00:00",
+        "period_number": 16,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 17,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 5,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:30:00",
+        "period_number": 18,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:30:00",
+        "end_time": "19:30:00",
+        "period_number": 19,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "19:30:00",
+        "end_time": "22:00:00",
+        "period_number": 20,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "22:00:00",
+        "end_time": "23:59:00",
+        "period_number": 21,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ],
+    "4": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:30:00",
+        "period_number": 22,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:30:00",
+        "end_time": "09:00:00",
+        "period_number": 23,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 24,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:30:00",
+        "period_number": 25,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:30:00",
+        "end_time": "19:30:00",
+        "period_number": 26,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 4,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "19:30:00",
+        "end_time": "22:00:00",
+        "period_number": 27,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 5,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "22:00:00",
+        "end_time": "23:59:00",
+        "period_number": 28,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ],
+    "5": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:30:00",
+        "period_number": 29,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:30:00",
+        "end_time": "09:00:00",
+        "period_number": 30,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 31,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:30:00",
+        "period_number": 32,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:30:00",
+        "end_time": "19:30:00",
+        "period_number": 33,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "19:30:00",
+        "end_time": "22:00:00",
+        "period_number": 34,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "22:00:00",
+        "end_time": "23:59:00",
+        "period_number": 35,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ],
+    "6": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:30:00",
+        "period_number": 36,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:30:00",
+        "end_time": "09:00:00",
+        "period_number": 37,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 38,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:30:00",
+        "period_number": 39,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:30:00",
+        "end_time": "19:30:00",
+        "period_number": 40,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "19:30:00",
+        "end_time": "22:00:00",
+        "period_number": 41,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "22:00:00",
+        "end_time": "23:59:00",
+        "period_number": 42,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ],
+    "7": [
+      {
+        "start_time": "00:00:00",
+        "end_time": "08:30:00",
+        "period_number": 43,
+        "period_name": "AM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "08:30:00",
+        "end_time": "09:00:00",
+        "period_number": 44,
+        "period_name": "AM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "09:00:00",
+        "end_time": "11:00:00",
+        "period_number": 45,
+        "period_name": "AM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "11:00:00",
+        "end_time": "16:30:00",
+        "period_number": 46,
+        "period_name": "MID PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "16:30:00",
+        "end_time": "19:30:00",
+        "period_number": 47,
+        "period_name": "PM PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "19:30:00",
+        "end_time": "22:00:00",
+        "period_number": 48,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "22:00:00",
+        "end_time": "23:00:00",
+        "period_number": 49,
+        "period_name": "PM FLASH",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      },
+      {
+        "start_time": "23:00:00",
+        "end_time": "23:59:00",
+        "period_number": 50,
+        "period_name": "PM OFF PEAK",
+        "streams": {
+          "1": {
+            "online_mode": "ATATFXFL",
+            "offline_mode": "ATATFXFL",
+            "plan": 1,
+            "clf_offset": 0
+          }
+        }
+      }
+    ]
+  }

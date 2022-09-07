@@ -1,0 +1,6477 @@
+{
+  "0": [
+    {
+      "phase": "1",
+      "min": 5,
+      "max": 123
+    }
+  ],
+    "1": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 3,
+        "max": 32
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "2": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "3": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 41
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "4": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "5": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "6": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "7": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "8": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "9": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "10": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "11": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "12": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "13": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "14": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "15": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "16": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "17": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "18": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "19": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "20": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "21": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "22": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "23": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "24": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "25": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "26": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "27": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "28": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "29": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "30": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "31": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "32": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "33": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "34": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "35": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "36": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "37": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "38": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "39": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "40": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "41": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "42": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "43": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "44": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "45": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "46": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "47": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "48": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 15,
+        "max": 45
+      }
+    ],
+    "49": [
+      {
+        "phase": "A",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "B",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "C",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "D",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "E",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "F",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "G",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "H",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "I",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "J",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "K",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "L",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "M",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "N",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "O",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "P",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Q",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "R",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "S",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "T",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "U",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "V",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "W",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "X",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Y",
+        "min": 15,
+        "max": 45
+      },
+      {
+        "phase": "Z",
+        "min": 2,
+        "max": 452
+      }
+    ]
+  }
