@@ -1,11 +1,11 @@
 from datetime import datetime
 import json
 
-junction_data_open = open('data.json')
-junction_data = json.load(junction_data_open)
+# junction_data_open = open('data.json')
+# junction_data = json.load(junction_data_open)
 
 #Check 0 period
-def check_0_period(period_phase_limit) :                             
+async def check_0_period(period_phase_limit) :                             
     '''
     Check for 0 period in the time_table
     '''
@@ -19,11 +19,11 @@ def check_0_period(period_phase_limit) :
     return error_msg
 
 #Check for Offline modes                                            #Update the list and the correct names
-def check_offline_mode(time_table) :
+async def check_offline_mode(time_table) :
     '''
     Check weather offline mode is from the allowed list
     '''
-    allowed_offline_modes = ['FXTM','LOFF','FBFT','FLSH','LOFLVA','ATATFXFL']       #Add other allowed modes
+    allowed_offline_modes = ['FXTM','LOFF','FBFT','FLSH','LOFLVA','ATATFXFL']       #Add other allowed modes, 'ATFXFXNO'
     error_msg ={}
     j=0
     for key in time_table :
@@ -73,7 +73,7 @@ def create_interval_array(week_data,key):
         interval_ = Interval(start_datetime_obj,end_datetime_obj)
         day_schedule.append(interval_)
     return day_schedule
-def manager(time_table) :
+async def manager(time_table) :
     '''
     Main operator function.
     '''
@@ -97,7 +97,7 @@ def manager(time_table) :
 
 
 #Period consistency         #Check: In the frontend even though period 50 exists it doesn't show in JSON.parse(JunctionData['PeriodPhaseLimits']) but for other it is correct
-def period_phase_consistency(time_table,site_data,period_phase_limit) :
+async def period_phase_consistency(time_table,site_data,period_phase_limit) :
     number_of_arms = site_data['number_of_arms']
     error_msg={}
     j=0
@@ -127,7 +127,7 @@ def period_phase_consistency(time_table,site_data,period_phase_limit) :
 
 
 #Inter-Phase Conflict
-def inter_phase_conflict(phase_conflict,inter_phase_duration) :
+async def inter_phase_conflict(phase_conflict,inter_phase_duration) :
     error_msg={}
     j=0
     for key in phase_conflict:
@@ -154,7 +154,7 @@ def inter_phase_conflict(phase_conflict,inter_phase_duration) :
 
 
 #Detector SCN           #Only checking weather detector scn exists or not. 
-def check_detector_scn(detector,phase_detector) :
+async def check_detector_scn(detector,phase_detector) :
     radar_list=[]
     error_msg={}
     j=0
@@ -177,7 +177,7 @@ def check_detector_scn(detector,phase_detector) :
 
 
 #ApproachPhaseDetectorMap vs ApproachPhaseApproach          #Check : Only using xdetector_scn and also [0:8] or is there a different source
-def phase_detector_consistency(phase_detector,approach_detector) :
+async def phase_detector_consistency(phase_detector,approach_detector) :
     '''
     Checking for Phase-Detector consistency in ApproachPhaseDetectorMap vs ApproachPhaseApproach
     '''
@@ -205,7 +205,7 @@ def phase_detector_consistency(phase_detector,approach_detector) :
 
 
 #Radar Detector Smart micro
-def check_radar_ip(smartmicro) :
+async def check_radar_ip(smartmicro) :
     '''
     If detector type = Radar then radar IP should not be null
     '''
@@ -225,7 +225,7 @@ def check_radar_ip(smartmicro) :
 
 
 #Approach Phase Detector Map
-def check_approach_phase_detector_map(approach_detector) :
+async def check_approach_phase_detector_map(approach_detector) :
     '''
     Phase to approach mapping cannot be empty.
     '''
@@ -243,7 +243,7 @@ def check_approach_phase_detector_map(approach_detector) :
         return None
     return error_msg
 
-def validation_manager(junction_data) :
+async def validation_manager(junction_data) :
     '''
     Return the final json file
     '''
@@ -257,15 +257,15 @@ def validation_manager(junction_data) :
     approach_detector = json.loads(junction_data['ApproachPhaseApproach'])
     
     
-    zero_period = check_0_period(period_phase_limit)
-    offline_mode = check_offline_mode(time_table)
-    overlap = manager(time_table)
-    period_phase = period_phase_consistency(time_table,site_data,period_phase_limit)
-    inter_phase = inter_phase_conflict(phase_conflict,inter_phase_duration)
-    detector_scn = check_detector_scn(smartmicro,phase_detector)
-    phase_detector_check = phase_detector_consistency(phase_detector,approach_detector)
-    radar_ip = check_radar_ip(smartmicro)
-    approach_phase_detector_map = check_approach_phase_detector_map(approach_detector)
+    zero_period = await check_0_period(period_phase_limit)
+    offline_mode = await check_offline_mode(time_table)
+    overlap = await manager(time_table)
+    period_phase = await period_phase_consistency(time_table,site_data,period_phase_limit)
+    inter_phase = await inter_phase_conflict(phase_conflict,inter_phase_duration)
+    detector_scn = await check_detector_scn(smartmicro,phase_detector)
+    phase_detector_check = await phase_detector_consistency(phase_detector,approach_detector)
+    radar_ip = await check_radar_ip(smartmicro)
+    approach_phase_detector_map = await check_approach_phase_detector_map(approach_detector)
 
     final_msg = json.dumps({
         'Zero period' : zero_period,
