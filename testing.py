@@ -58,8 +58,6 @@ def stage_conflicting_phase_check(phase_stage,plan,phase_conflict):
     
     return error_msg      
             
-    
-
 print(stage_conflicting_phase_check(phase_stage,plan,phase_conflict))
 #Stage should not contain conflicting phases(PhaseStage, Plan)
 

@@ -10,3 +10,6 @@ if "Z" in line_phase_map :
     print("Found Z")
 if "R" in line_phase_map :
     print("Found R")
+    
+    
+#Added new file to check git reset
