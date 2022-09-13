@@ -13,5 +13,3 @@ if "R" in line_phase_map :
     
     
 #Added new file to check git reset
-
-#New lines to check revert
