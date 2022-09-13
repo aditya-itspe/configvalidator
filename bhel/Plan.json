@@ -1,0 +1,238 @@
+{
+    "1": {
+        "1": {
+            "1": {
+                "stage_order": 1,
+                "stage_number": 5,
+                "stage_type": "R",
+                "duration": 50,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "A",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "E",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "F",
+                        "delay": 0
+                    }
+                ]
+            },
+            "2": {
+                "stage_order": 2,
+                "stage_number": 4,
+                "stage_type": "R",
+                "duration": 40,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "C",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "D",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "E",
+                        "delay": 0
+                    }
+                ]
+            },
+            "3": {
+                "stage_order": 3,
+                "stage_number": 3,
+                "stage_type": "R",
+                "duration": 15,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "A",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "B",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "C",
+                        "delay": 0
+                    }
+                ]
+            },
+            "4": {
+                "stage_order": 4,
+                "stage_number": 0,
+                "stage_type": "R",
+                "duration": 5,
+                "phase_info": []
+            }
+        },
+        "2": {
+            "1": {
+                "stage_order": 1,
+                "stage_number": 5,
+                "stage_type": "R",
+                "duration": 20,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "A",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "E",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "F",
+                        "delay": 0
+                    }
+                ]
+            },
+            "2": {
+                "stage_order": 2,
+                "stage_number": 4,
+                "stage_type": "R",
+                "duration": 20,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "C",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "D",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "E",
+                        "delay": 0
+                    }
+                ]
+            },
+            "3": {
+                "stage_order": 3,
+                "stage_number": 3,
+                "stage_type": "R",
+                "duration": 20,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "A",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "B",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "C",
+                        "delay": 0
+                    }
+                ]
+            },
+            "4": {
+                "stage_order": 4,
+                "stage_number": 0,
+                "stage_type": "R",
+                "duration": 5,
+                "phase_info": []
+            }
+        },
+        "3": {
+            "1": {
+                "stage_order": 1,
+                "stage_number": 5,
+                "stage_type": "R",
+                "duration": 23,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "A",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "E",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "F",
+                        "delay": 0
+                    }
+                ]
+            },
+            "2": {
+                "stage_order": 2,
+                "stage_number": 4,
+                "stage_type": "R",
+                "duration": 40,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "C",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "D",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "E",
+                        "delay": 0
+                    }
+                ]
+            },
+            "3": {
+                "stage_order": 3,
+                "stage_number": 3,
+                "stage_type": "R",
+                "duration": 50,
+                "phase_info": [
+                    {
+                        "order": 1,
+                        "phase": "A",
+                        "delay": 0
+                    },
+                    {
+                        "order": 2,
+                        "phase": "B",
+                        "delay": 0
+                    },
+                    {
+                        "order": 3,
+                        "phase": "C",
+                        "delay": 0
+                    }
+                ]
+            },
+            "4": {
+                "stage_order": 4,
+                "stage_number": 0,
+                "stage_type": "F",
+                "duration": 5,
+                "phase_info": []
+            }
+        }
+    }
+}

@@ -23,7 +23,7 @@ async def check_offline_mode(time_table) :
     '''
     Check weather offline mode is from the allowed list
     '''
-    allowed_offline_modes = ['FXTM','LOFF','FBFT','FLSH','LOFLVA','ATATFXFL']       #Add other allowed modes, 'ATFXFXNO'
+    allowed_offline_modes = ['FXTM','LOFF','FBFT','FLSH','LOFLVA','ATATFXFL','ATFXFXNO']       #Add other allowed modes, 'ATFXFXNO'
     error_msg ={}
     j=0
     for key in time_table :
@@ -243,6 +243,185 @@ async def check_approach_phase_detector_map(approach_detector) :
         return None
     return error_msg
 
+async def otu_cpu_map(otu_cpu_mapping) :
+    error_msg={}
+    j=0
+    for key in otu_cpu_mapping :
+        for key_1 in otu_cpu_mapping[key] :
+            if type(otu_cpu_mapping[key][key_1]) != int :
+                add_msg = {
+                    'Error' : 'OTU-CPU Map',
+                    'Stages' : (key,key_1),
+                    'Value' : otu_cpu_mapping[key][key_1]      
+                }
+                error_msg[j]=add_msg
+                j+=1
+    if error_msg == {}:
+        return None
+    return error_msg
+
+
+async def stage_consistency(otu_cpu_mapping,stage_default,phase_stage,stage_stream):
+    '''
+    Stage consistency across Config
+    OTUCPU map, StageDefault, PhaseStage, StageStream 
+    '''
+    error_msg={}
+    j=0
+    stage_default_list = []
+    for key in stage_default :
+        stage_default_list.append(int(key))
+    
+    #For Phase stage
+    phase_stage_list =[]
+    for key in phase_stage :
+        phase_stage_list.append(int(key))
+    if stage_default_list != phase_stage_list :
+        add_msg = {
+            "Error" : 'Stages do not match in stage default and phase stage'
+        } 
+        error_msg[j]=add_msg
+        j+=1
+    
+    #For otu cpu mapping
+    otu_stage_list=[]
+    error_msg_1={}
+    k=0
+    for key in otu_cpu_mapping :
+        otu_stage_list.append(int(key))    
+    if otu_stage_list != stage_default_list :
+        add_msg = {
+            "Error" : 'Stages do not match in stage default and otu cpu mapping'
+        } 
+        error_msg_1[k]=add_msg
+        k+=1
+    if error_msg_1 == {} :
+        for key in otu_cpu_mapping :
+            cpu_list=[]
+            for key_1 in otu_cpu_mapping[key] :
+                cpu_list.append(int(key_1))
+            if cpu_list != stage_default_list :
+                add_msg = {
+                "Error" : 'Stages do not match in stage default and otu cpu mapping'
+                } 
+                error_msg_1[k]=add_msg
+                k+=1
+    if error_msg_1 != {} :
+        error_msg[j] = error_msg_1
+        j+=1
+    
+    #For Stage stream
+    for key in stage_stream :
+        stream_stage_list = stage_stream[key]
+        if stream_stage_list != stage_default_list :
+            add_msg={
+                'Error' : 'Stages do not match in stage default and stage stream',
+                'Stream' : key
+            }
+            error_msg[j] = add_msg
+            j+=1
+    if error_msg == {}:
+        return None 
+    return error_msg
+
+async def check_line_phase(line_phase_map) :    #Can add for PE phase type
+    error_msg={}
+    j=0
+    for key in line_phase_map :
+        if line_phase_map[key]['phase_type'] == "FI" :
+            red=0
+            amber=0
+            green=0
+            for key_1 in line_phase_map[key]['line_phase_mapping'] :
+                if line_phase_map[key]['line_phase_mapping'][key_1] == "R" :
+                    red+=1
+                if line_phase_map[key]['line_phase_mapping'][key_1] == "A" :
+                    amber+=1
+                if line_phase_map[key]['line_phase_mapping'][key_1] == "G" :
+                    green+=1
+            if red == 0 or green ==0 or amber == 0 :
+                add_msg = {
+                    'Error' : 'Check Line Phase Map for FI Phase type',
+                    'Phase' : key,
+                    '(Red,Amber,Green)' : (red,amber,green)
+                }
+                error_msg[j] = add_msg
+                j+=1
+
+        if line_phase_map[key]['phase_type'] == "PI" :
+            red=0
+            amber=0
+            for key_1 in line_phase_map[key]['line_phase_mapping'] :
+                if line_phase_map[key]['line_phase_mapping'][key_1] == "R" :
+                    red+=1
+                if line_phase_map[key]['line_phase_mapping'][key_1] == "A" :
+                    amber+=1
+            if red != 0 or amber != 0 :
+                add_msg = {
+                    'Error' : 'Check Line Phase Map for PI Phase type',
+                    'Phase' : key,
+                    '(Red,Amber)' : (red,amber)
+                }
+                error_msg[j] = add_msg
+                j+=1    
+    if error_msg == {} :
+        return None
+    
+    return error_msg
+
+async def stage_conflicting_phase_check(phase_stage,plan,phase_conflict):
+    conflicting_phase_map = {}
+    error_msg={}
+    j=0
+    for key in phase_conflict :
+        conflict_list=[]
+        for key_1 in phase_conflict[key] :
+            if phase_conflict[key][key_1]==1:
+                conflict_list.append(key_1)
+        conflicting_phase_map[key]=conflict_list
+    
+    #Check in PhaseStage
+    for key in phase_stage :
+        stage_phase_map=[]
+        for key_1 in phase_stage[key] :
+            if phase_stage[key][key_1]=="S" or phase_stage[key][key_1]=='B' :
+                stage_phase_map.append(key_1)
+        for phase in stage_phase_map :
+            for item in conflicting_phase_map[phase] :
+                if item in stage_phase_map :
+                    add_msg={
+                        'Error' : 'Stage contains conflicting phases',
+                        'Conflicting Phase' : (phase,item),
+                        'Stage' : key
+                    }
+                    error_msg[j]=add_msg
+                    j+=1
+                
+    #Check in Plan
+    for key_1 in plan :
+        for key_2 in plan[key_1]:
+            for key_3 in plan[key_1][key_2] :
+                plan_phase=[]
+                for i in range(len(plan[key_1][key_2][key_3]['phase_info'])):
+                    plan_phase.append(plan[key_1][key_2][key_3]['phase_info'][i]["phase"])
+                for phase in plan_phase :
+                    for item in conflicting_phase_map[phase] :
+                        if item in plan_phase :
+                            add_msg ={
+                                'Error' : 'Plan contains conflicting phases',
+                                'Conflicting Phases' : (phase,item)
+                            }
+                            error_msg[j] = add_msg
+                            j+=1
+    
+    if error_msg == {} :
+        return None
+    return error_msg
+
+
+
+
+
 async def validation_manager(junction_data) :
     '''
     Return the final json file
@@ -255,6 +434,13 @@ async def validation_manager(junction_data) :
     smartmicro = json.loads(junction_data['DetectorConfig']['SMC'])
     phase_detector = json.loads(junction_data['PhaseDetectorMap'])
     approach_detector = json.loads(junction_data['ApproachPhaseApproach'])
+    otu_cpu_mapping = json.loads(junction_data['OtuCpuMap'])
+    stage_default = json.loads(junction_data['StageDefault'])
+    phase_stage = json.loads(junction_data['PhaseStage'])
+    stage_stream = json.loads(junction_data['StageStream'])
+    line_phase_map = json.loads(junction_data['LinePhase'])
+    plan = json.loads(junction_data['Plan'])
+    #PLAN
     
     
     zero_period = await check_0_period(period_phase_limit)
@@ -266,6 +452,10 @@ async def validation_manager(junction_data) :
     phase_detector_check = await phase_detector_consistency(phase_detector,approach_detector)
     radar_ip = await check_radar_ip(smartmicro)
     approach_phase_detector_map = await check_approach_phase_detector_map(approach_detector)
+    otu_cpu_check = await otu_cpu_map(otu_cpu_mapping)
+    stage_consistency_check = await stage_consistency(otu_cpu_mapping,stage_default,phase_stage,stage_stream)
+    line_phase_map = await check_line_phase(line_phase_map)
+    conflicting_phase_stage = await stage_conflicting_phase_check(phase_stage,plan,phase_conflict)
 
     final_msg = json.dumps({
         'Zero period' : zero_period,
@@ -276,9 +466,13 @@ async def validation_manager(junction_data) :
         'Detector SCN' : detector_scn,
         'Phase Detector consistency' : phase_detector_check,
         'Radar IP' : radar_ip,
-        'Approach Phase Detector Map' : approach_phase_detector_map
+        'Approach Phase Detector Map' : approach_phase_detector_map,
+        'Otu Cpu Map' : otu_cpu_check,
+        'Stage Consistency' : stage_consistency_check,
+        'Line Phase Map' : line_phase_map,
+        'Conflicting Phase in Stage' : conflicting_phase_stage,
     }, indent= 4)
 
     return final_msg
 
-# print(validation_manager(junction_data))
+
