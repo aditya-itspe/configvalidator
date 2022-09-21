@@ -4,7 +4,6 @@ import json
 # junction_data_open = open('data.json')
 # junction_data = json.load(junction_data_open)
 
-#Check 0 period
 async def check_0_period(period_phase_limit) :                             
     '''
     Check for 0 period in the time_table
@@ -18,7 +17,7 @@ async def check_0_period(period_phase_limit) :
         return None
     return error_msg
 
-#Check for Offline modes                                            #Update the list and the correct names
+#Update the list and the correct names
 async def check_offline_mode(time_table) :
     '''
     Check weather offline mode is from the allowed list
@@ -44,7 +43,6 @@ async def check_offline_mode(time_table) :
     return error_msg                                                               
 
 
-#Overlapping
 class Interval:
 	def __init__(self, start, end):
 		self.start = start
@@ -96,8 +94,11 @@ async def manager(time_table) :
     return error_msg
 
 
-#Period consistency         #Check: In the frontend even though period 50 exists it doesn't show in JSON.parse(JunctionData['PeriodPhaseLimits']) but for other it is correct
+#Period consistency         #Check: Rename function as another pd phase consistency | Also check for more than 50 length 
 async def period_phase_consistency(time_table,site_data,period_phase_limit) :
+    '''
+    Check for Period consistency
+    '''
     number_of_arms = site_data['number_of_arms']
     error_msg={}
     j=0
@@ -112,7 +113,7 @@ async def period_phase_consistency(time_table,site_data,period_phase_limit) :
     for key in period_phase_limit :
         period_phase_limit_list.append(int(key))
     period_phase_limit_list.sort()
-    period_phase_limit_list.remove(0)                                               #As there is no zero period in Time Table
+    period_phase_limit_list.remove(0)                                             
     if period_time_table != period_phase_limit_list :
         add_msg={
             'Error' : 'Period Inconsistency',
@@ -126,8 +127,10 @@ async def period_phase_consistency(time_table,site_data,period_phase_limit) :
     return error_msg
 
 
-#Inter-Phase Conflict
 async def inter_phase_conflict(phase_conflict,inter_phase_duration) :
+    '''
+    Check for Interphase duration for conflicting phases and non conflicting phases
+    '''
     error_msg={}
     j=0
     for key in phase_conflict:
@@ -153,7 +156,7 @@ async def inter_phase_conflict(phase_conflict,inter_phase_duration) :
     return error_msg
 
 
-#Detector SCN           #Only checking weather detector scn exists or not. 
+#Detector SCN           #Only checking weather detector scn exists or not. #Need to change it after last discussion
 async def check_detector_scn(detector,phase_detector) :
     radar_list=[]
     error_msg={}
@@ -176,7 +179,7 @@ async def check_detector_scn(detector,phase_detector) :
     return error_msg
 
 
-#ApproachPhaseDetectorMap vs ApproachPhaseApproach          #Check : Only using xdetector_scn and also [0:8] or is there a different source
+#ApproachPhaseDetectorMap vs ApproachPhaseApproach          #Check : Only using xdetector_scn and also [0:8] or is there a different source #Change after last discussion
 async def phase_detector_consistency(phase_detector,approach_detector) :
     '''
     Checking for Phase-Detector consistency in ApproachPhaseDetectorMap vs ApproachPhaseApproach
@@ -244,6 +247,9 @@ async def check_approach_phase_detector_map(approach_detector) :
     return error_msg
 
 async def otu_cpu_map(otu_cpu_mapping) :
+    '''
+    Checking in OTU CPU map
+    '''
     error_msg={}
     j=0
     for key in otu_cpu_mapping :
@@ -325,6 +331,10 @@ async def stage_consistency(otu_cpu_mapping,stage_default,phase_stage,stage_stre
     return error_msg
 
 async def check_line_phase(line_phase_map) :    #Can add for PE phase type
+    '''
+    In Line Phase Map : FI should have minimum one R,A,G
+    No R,A in PI
+    '''
     error_msg={}
     j=0
     for key in line_phase_map :
@@ -370,6 +380,9 @@ async def check_line_phase(line_phase_map) :    #Can add for PE phase type
     return error_msg
 
 async def stage_conflicting_phase_check(phase_stage,plan,phase_conflict):
+    '''
+    To check weather a stage consists conflicting phases
+    '''
     conflicting_phase_map = {}
     error_msg={}
     j=0
@@ -418,7 +431,28 @@ async def stage_conflicting_phase_check(phase_stage,plan,phase_conflict):
         return None
     return error_msg
 
-
+async def stage_stream_check(stage_stream) :
+    '''
+    Checking if a stage is mentioned in two different streams
+    '''
+    error_msg={}
+    j=0
+    stage_used =[]
+    for key in stage_stream :
+        for i in range(len(stage_stream[key])) :
+            if stage_stream[key][i] in stage_used :
+                add_msg={
+                    'Error' : 'Stage already in a different stream',
+                    'Current stream' : key
+                }
+                error_msg[j]=add_msg
+                j+=1
+            else :
+                stage_used.append(stage_stream[key][i])
+    
+    if error_msg=={} :
+        return None
+    return error_msg
 
 
 
@@ -440,7 +474,6 @@ async def validation_manager(junction_data) :
     stage_stream = json.loads(junction_data['StageStream'])
     line_phase_map = json.loads(junction_data['LinePhase'])
     plan = json.loads(junction_data['Plan'])
-    #PLAN
     
     
     zero_period = await check_0_period(period_phase_limit)
@@ -456,6 +489,7 @@ async def validation_manager(junction_data) :
     stage_consistency_check = await stage_consistency(otu_cpu_mapping,stage_default,phase_stage,stage_stream)
     line_phase_map = await check_line_phase(line_phase_map)
     conflicting_phase_stage = await stage_conflicting_phase_check(phase_stage,plan,phase_conflict)
+    check_stage_stream = await stage_stream_check(stage_stream)
 
     final_msg = json.dumps({
         'Zero period' : zero_period,
@@ -471,6 +505,7 @@ async def validation_manager(junction_data) :
         'Stage Consistency' : stage_consistency_check,
         'Line Phase Map' : line_phase_map,
         'Conflicting Phase in Stage' : conflicting_phase_stage,
+        'Stage Stream check' : check_stage_stream
     }, indent= 4)
 
     return final_msg
