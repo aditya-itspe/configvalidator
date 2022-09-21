@@ -4,7 +4,7 @@ import config_validator
 from datetime import datetime
 import json
 
-junction_data_open = open('bhel.json')
+junction_data_open = open('configvalidator/dilaram.json')
 junction_data = json.load(junction_data_open)
 
 async def main(junction_data) :
