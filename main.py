@@ -1,5 +1,4 @@
 import asyncio
-import _asyncio
 import config_validator
 from datetime import datetime
 import json
